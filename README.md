@@ -30,5 +30,5 @@ View package.json for full script
 npm run dev
 ```
 ## Reference & Other resources
-[Google](https://www.google.com ) <br>
-[API overview and server implememtation details](https://github.com/Davodu/releaf-api/edit/master/README.md)
+- [Google](https://www.google.com ) <br>
+- [API overview and server implememtation details](https://github.com/Davodu/releaf-api/edit/master/README.md)
