@@ -1,0 +1,5 @@
+#dependencies
+node_modules/
+
+#es6 converted to es2015 using babel
+dict/
