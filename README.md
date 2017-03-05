@@ -31,4 +31,4 @@ npm run dev
 ```
 ## Reference & Other resources
 - [Google](https://www.google.com ) <br>
-- [API overview and server implememtation details](https://docs.google.com/document/d/1SmkemQDRdIufVBYm5SXV1TQ2iLmJLkqay19Jpb3OaBQ/edit)
+- [API overview and server implememtation details](https://docs.google.com/document/d/1SmkemQDRdIufVBYm5SXV1TQ2iLmJLkqay19Jpb3OaBQ/edit?usp=sharing)
