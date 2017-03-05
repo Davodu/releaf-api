@@ -2,7 +2,7 @@ import jwt from 'jsonwebtoken';
 import expressJwt from 'express-jwt';
 const TOKENTIME = 60*60*24*30; //Token set for 30 days 
 
-const SECRET = "R3l3af"; //prevent aliens from accesing info
+const SECRET = "Th3 R3l3af S3cr3t"; //secret to restrict aliens
 
 let authenticate = expressJwt({secret: SECRET});
 
