@@ -31,4 +31,4 @@ npm run dev
 ```
 ## Reference & Other resources
 - [Google](https://www.google.com ) <br>
-- [API overview and server implememtation details](https://github.com/Davodu/releaf-api/edit/master/README.md)
+- [API overview and server implememtation details](https://docs.google.com/document/d/1SmkemQDRdIufVBYm5SXV1TQ2iLmJLkqay19Jpb3OaBQ/edit)
